@@ -1,0 +1,23 @@
+.task  div{
+    display: inline-block;
+    margin: 1px;
+}
+.task {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    display: inline-block;
+    /* border-color: black; */
+}
+.cbox {
+    background-color: red;
+    width: 10px;
+    height: 15px;
+}
+.ctext {
+    text-decoration: line-through;
+}
+.ucbox {
+    width: 10px;
+    height: 15px;
+}
